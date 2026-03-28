@@ -1,4 +1,4 @@
-# 🎬 Amazon Prime Video Content Analytics Dashboard (Power BI)
+# 🎬 Amazon Prime Video Content Analytics Dashboard (Power BI) 
 
 ~10,000 titles. 200M+ subscribers. One dashboard to make sense of it all.
 
